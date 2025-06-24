@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there, my name is Bruno 👋
 
+- 🌱 I’m currently learning Java and Spring
+- 💬 Ask me about Star Wars, videogames and that kind of stuff (kidding)
+- ⚡ Fun fact: I'm a Kung Fu instructor
+- 📫 How to reach me:
+<div>
+<a href = "mailto:contato@brunoalexdias15@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/bruno-alexandre-75158a1a4" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 <!--
 **al3xandr3-bruno/al3xandr3-bruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
